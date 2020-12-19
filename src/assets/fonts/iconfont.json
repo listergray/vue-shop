@@ -1,0 +1,58 @@
+{
+  "id": "2234280",
+  "name": "vue-shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "435928",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "553323",
+      "name": "姓名 用户名 昵称",
+      "font_class": "xingmingyonghumingnicheng",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "970125",
+      "name": "好房拓 4.0.0 iconfont_用户名",
+      "font_class": "haofangtuo400iconfontyonghuming",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "1418216",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2077531",
+      "name": "密码",
+      "font_class": "mima2",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6010908",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "18439644",
+      "name": "密码3",
+      "font_class": "mima3",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
