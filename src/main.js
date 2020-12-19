@@ -5,6 +5,7 @@ import './plugins/element.js'
 /** 导入全局样式表 */
 import './assets/css/global.css'
 import './assets/fonts/iconfont.css'
+
 import axios from 'axios'
 
 // 配置请求的根路径
